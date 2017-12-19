@@ -6,3 +6,4 @@
 # --place file names or expressions below--
 
 *.log
+*.orig
